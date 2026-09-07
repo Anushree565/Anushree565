@@ -1,42 +1,39 @@
-# Hi, I'm Anu 👋
+# Hi there, I'm Anushree 👋
 
-🎓 Computer Science Student | 💻 Aspiring Software Developer
+Computer Science Engineering student passionate about building technology that solves real-world problems.
 
-I'm a Computer Science student passionate about building software, solving problems, and learning new technologies.
+💻 I'm interested in **Software Development, Full-Stack Development, Artificial Intelligence, and Machine Learning**.
 
-### 🚀 What I'm Learning
+🚀 I enjoy turning ideas into projects and continuously improving my technical skills through hands-on learning and development.
 
-* ☕ Java
-* 🧩 Data Structures & Algorithms
-* 🌐 Full-Stack Development
-* 🗄️ Databases
-* ☁️ Cloud & Backend Technologies
-* 🤖 AI/ML
+### 🔭 Currently Working On
 
-### 🛠️ Tech Stack
+* Building full-stack web applications
+* Exploring Artificial Intelligence and Machine Learning
+* Improving my problem-solving and Data Structures & Algorithms skills
 
-**Languages:** Java, Python, JavaScript
-**Web:** HTML, CSS, JavaScript
-**Database:** SQL
-**Tools:** Git, GitHub, VS Code
+### 🛠️ Technologies & Tools
 
-### 📌 Featured Projects
+* **Languages:** JavaScript, Python, SQL
+* **Frontend:** HTML, CSS, JavaScript, jQuery,React
+* **Backend:** Node.js, Express.js
+* **Databases:** MySQL, PostgreSQL
+* **Tools:** Git, GitHub, VS Code
 
-* 🛒 **E-Commerce Web Application** — Full-stack shopping platform
-* 🔐 **Authentication System** — User registration and login
-* 📚 **DSA Practice** — Java implementations of data structures and algorithms
+### 📌 Projects
 
-### 📈 Currently Working On
+* 🛒 **ShopSmart** – A full-stack e-commerce application
+* 🚦 **Intelligent Traffic Signal Optimization** – An AI-based system for analyzing traffic and optimizing traffic signals
+* 🧠 **NeuroMove** – A machine learning project exploring EEG-based movement classification
 
-* Strengthening Java and DSA
-* Building full-stack projects
-* Improving problem-solving skills
-* Preparing for software-development internships and placements
+### 🌱 Currently Learning
 
-### 🤝 Let's Connect
+* Advanced Full-Stack Development
+* Data Structures & Algorithms 
+* Artificial Intelligence and Machine Learning
 
-I'm always interested in learning, building projects, and collaborating on interesting ideas.
+### 🎯 My Goal
 
----
+To grow into a skilled software engineer, build impactful products, and work on challenging technology problems.
 
-⭐ Feel free to explore my repositories!
+📫 **Let's connect and build something amazing!**
