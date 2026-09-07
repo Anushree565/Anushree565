@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Anu 👋
 
-<!--
-**Anushree565/Anushree565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building software, solving problems, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Learning
+
+* ☕ Java
+* 🧩 Data Structures & Algorithms
+* 🌐 Full-Stack Development
+* 🗄️ Databases
+* ☁️ Cloud & Backend Technologies
+* 🤖 AI/ML
+
+### 🛠️ Tech Stack
+
+**Languages:** Java, Python, JavaScript
+**Web:** HTML, CSS, JavaScript
+**Database:** SQL
+**Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+* 🛒 **E-Commerce Web Application** — Full-stack shopping platform
+* 🔐 **Authentication System** — User registration and login
+* 📚 **DSA Practice** — Java implementations of data structures and algorithms
+
+### 📈 Currently Working On
+
+* Strengthening Java and DSA
+* Building full-stack projects
+* Improving problem-solving skills
+* Preparing for software-development internships and placements
+
+### 🤝 Let's Connect
+
+I'm always interested in learning, building projects, and collaborating on interesting ideas.
+
+---
+
+⭐ Feel free to explore my repositories!
